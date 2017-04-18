@@ -1,36 +1,36 @@
 <svg height="526" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="526" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 16:23:54 +0000    70121 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 16:23:54 +0000     5343 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 16:23:54 +0000     1076 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 16:23:54 +0000    11119 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 16:23:54 +0000      993 bytes  bin/meteor-jsdoc</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 16:23:54 +0000      215 bytes  example/jsdoc-conf.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 16:23:54 +0000     1173 bytes  example/jsdoc.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 16:23:54 +0000     1343 bytes  example/meteor/client/helpers.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 16:23:54 +0000      119 bytes  example/meteor/client/init.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 16:23:54 +0000     1933 bytes  example/meteor/client/templates/api-box.html</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 16:23:54 +0000     4759 bytes  example/meteor/client/templates/api-box.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 16:23:54 +0000      513 bytes  example/meteor/client/templates/docs.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 16:23:54 +0000      176 bytes  example/meteor/client/templates/docs.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 16:23:54 +0000    12141 bytes  example/meteor/client/templates/docs.less</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 16:23:54 +0000     1212 bytes  example/meteor/client/templates/layout.html</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 16:23:54 +0000      296 bytes  example/meteor/client/templates/layout.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 16:23:54 +0000      862 bytes  example/meteor/client/templates/preamble-toc.htm\</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 16:25:14 +0000    70121 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 16:25:14 +0000     5343 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 16:25:14 +0000     1076 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 16:25:14 +0000    11119 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 16:25:14 +0000      993 bytes  bin/meteor-jsdoc</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 16:25:14 +0000      215 bytes  example/jsdoc-conf.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 16:25:14 +0000     1173 bytes  example/jsdoc.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 16:25:14 +0000     1343 bytes  example/meteor/client/helpers.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 16:25:14 +0000      119 bytes  example/meteor/client/init.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 16:25:14 +0000     1933 bytes  example/meteor/client/templates/api-box.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 16:25:14 +0000     4759 bytes  example/meteor/client/templates/api-box.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 16:25:14 +0000      513 bytes  example/meteor/client/templates/docs.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 16:25:14 +0000      176 bytes  example/meteor/client/templates/docs.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 16:25:14 +0000    12141 bytes  example/meteor/client/templates/docs.less</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 16:25:14 +0000     1212 bytes  example/meteor/client/templates/layout.html</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 16:25:14 +0000      296 bytes  example/meteor/client/templates/layout.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 16:25:14 +0000      862 bytes  example/meteor/client/templates/preamble-toc.htm\</tspan>
 <tspan x="10" y="298">l</tspan>
-<tspan x="10" y="314"> 17.  2017-04-18 16:23:54 +0000      314 bytes  example/meteor/client/templates/preamble-toc.js</tspan>
-<tspan x="10" y="330"> 18.  2017-04-18 16:23:54 +0000      660 bytes  example/meteor/client/templates/search.html</tspan>
-<tspan x="10" y="346"> 19.  2017-04-18 16:23:54 +0000     5600 bytes  example/meteor/client/templates/search.js</tspan>
-<tspan x="10" y="362"> 20.  2017-04-18 16:23:54 +0000     1298 bytes  example/meteor/client/templates/tableOfContents.\</tspan>
+<tspan x="10" y="314"> 17.  2017-04-18 16:25:14 +0000      314 bytes  example/meteor/client/templates/preamble-toc.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-18 16:25:14 +0000      660 bytes  example/meteor/client/templates/search.html</tspan>
+<tspan x="10" y="346"> 19.  2017-04-18 16:25:14 +0000     5600 bytes  example/meteor/client/templates/search.js</tspan>
+<tspan x="10" y="362"> 20.  2017-04-18 16:25:14 +0000     1298 bytes  example/meteor/client/templates/tableOfContents.\</tspan>
 <tspan x="10" y="378">html</tspan>
-<tspan x="10" y="394"> 21.  2017-04-18 16:23:54 +0000      669 bytes  example/meteor/client/templates/tableOfContents.\</tspan>
+<tspan x="10" y="394"> 21.  2017-04-18 16:25:14 +0000      669 bytes  example/meteor/client/templates/tableOfContents.\</tspan>
 <tspan x="10" y="410">js</tspan>
-<tspan x="10" y="426"> 22.  2017-04-18 16:23:54 +0000       74 bytes  example/preamble.md</tspan>
-<tspan x="10" y="442"> 23.  2017-04-18 16:23:54 +0000     6347 bytes  lib/actions.js</tspan>
-<tspan x="10" y="458"> 24.  2017-04-18 16:23:54 +0000     2202 bytes  lib/config.js</tspan>
-<tspan x="10" y="474"> 25.  2017-04-18 16:23:54 +0000     1474 bytes  lib/helpers.js</tspan>
-<tspan x="10" y="490"> 26.  2017-04-18 16:23:54 +0000     2501 bytes  package.json</tspan>
-<tspan x="10" y="506"> 27.  2017-04-18 16:23:54 +0000     5709 bytes  template/publish.js</tspan>
+<tspan x="10" y="426"> 22.  2017-04-18 16:25:14 +0000       74 bytes  example/preamble.md</tspan>
+<tspan x="10" y="442"> 23.  2017-04-18 16:25:14 +0000     6347 bytes  lib/actions.js</tspan>
+<tspan x="10" y="458"> 24.  2017-04-18 16:25:14 +0000     2202 bytes  lib/config.js</tspan>
+<tspan x="10" y="474"> 25.  2017-04-18 16:25:14 +0000     1474 bytes  lib/helpers.js</tspan>
+<tspan x="10" y="490"> 26.  2017-04-18 16:25:14 +0000     2501 bytes  package.json</tspan>
+<tspan x="10" y="506"> 27.  2017-04-18 16:25:14 +0000     5709 bytes  template/publish.js</tspan>
 </text>
 </svg>
